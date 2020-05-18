@@ -1,3 +1,9 @@
+body{
+  background: url("./assets/1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +20,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /*background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +31,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: white;
 }
 
 @keyframes App-logo-spin {
