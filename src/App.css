@@ -1,5 +1,5 @@
 body{
-  background: url("./assets/1.jpg");
+  background: background: radial-gradient(circle, rgba(209,209,217,1) 0%, rgba(165,165,172,1) 24%, rgba(97,97,101,1) 49%, rgba(20,20,20,1) 87%);;
   background-size: cover;
   background-repeat: no-repeat;
 }
